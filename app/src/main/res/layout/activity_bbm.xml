@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Bbm_Activity"
+    android:background="@drawable/bck">
+
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btn_pertamax"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="PERTAMAX"
+        android:backgroundTint="@color/red"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginTop="50dp"
+        android:layout_marginStart="80dp"
+        app:cornerRadius="50dp"
+
+
+        />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btn_solar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SOLAR"
+        android:backgroundTint="@color/red"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toEndOf="@id/btn_pertamax"
+        android:layout_marginEnd="100dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginStart="25dp"
+        app:cornerRadius="50dp"
+        />
+
+    <FrameLayout
+        android:id="@+id/fl_page"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="150dp"
+        app:circularflow_radiusInDP="20dp"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

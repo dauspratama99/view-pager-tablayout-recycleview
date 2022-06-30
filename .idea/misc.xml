@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/SEMESTER 8 STMIK/Praktikum Android 1/UTS/app/src/main/res/drawable/bck.xml" value="0.159" />
+        <entry key="..\:/SEMESTER 8 STMIK/Praktikum Android 1/UTS/app/src/main/res/layout/activity_bbm.xml" value="0.19067028985507245" />
+        <entry key="..\:/SEMESTER 8 STMIK/Praktikum Android 1/UTS/app/src/main/res/layout/activity_data_mobil.xml" value="0.1956521739130435" />
+        <entry key="..\:/SEMESTER 8 STMIK/Praktikum Android 1/UTS/app/src/main/res/layout/activity_dealer.xml" value="0.19067028985507245" />
+        <entry key="..\:/SEMESTER 8 STMIK/Praktikum Android 1/UTS/app/src/main/res/layout/activity_detail_mobil.xml" value="0.19010416666666666" />
+        <entry key="..\:/SEMESTER 8 STMIK/Praktikum Android 1/UTS/app/src/main/res/layout/activity_main.xml" value="0.1956521739130435" />
+        <entry key="..\:/SEMESTER 8 STMIK/Praktikum Android 1/UTS/app/src/main/res/layout/activity_splash.xml" value="0.15625" />
+        <entry key="..\:/SEMESTER 8 STMIK/Praktikum Android 1/UTS/app/src/main/res/layout/activity_transmision.xml" value="0.19067028985507245" />
+        <entry key="..\:/SEMESTER 8 STMIK/Praktikum Android 1/UTS/app/src/main/res/layout/fragment_kedua.xml" value="0.19067028985507245" />
+        <entry key="..\:/SEMESTER 8 STMIK/Praktikum Android 1/UTS/app/src/main/res/layout/fragment_kedua2.xml" value="0.19067028985507245" />
+        <entry key="..\:/SEMESTER 8 STMIK/Praktikum Android 1/UTS/app/src/main/res/layout/fragment_pertalite.xml" value="0.19010416666666666" />
+        <entry key="..\:/SEMESTER 8 STMIK/Praktikum Android 1/UTS/app/src/main/res/layout/fragment_pertama.xml" value="0.19067028985507245" />
+        <entry key="..\:/SEMESTER 8 STMIK/Praktikum Android 1/UTS/app/src/main/res/layout/fragment_solar.xml" value="0.19067028985507245" />
+        <entry key="..\:/SEMESTER 8 STMIK/Praktikum Android 1/UTS/app/src/main/res/layout/list_data_mobil.xml" value="0.19010416666666666" />
+        <entry key="..\:/SEMESTER 8 STMIK/Praktikum Android 1/UTS/app/src/main/res/layout/list_slide.xml" value="0.19067028985507245" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
